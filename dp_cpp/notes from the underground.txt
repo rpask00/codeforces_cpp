@@ -1,0 +1,1 @@
+zmaina kolejnosci listy - szukanie sekwencji która zostanie na miejscu (kwiatki - increasing sequence)
